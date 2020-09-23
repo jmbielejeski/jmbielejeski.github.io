@@ -3,6 +3,7 @@ html, body {
   margin: 10;
   width: 100%;
   height: 100%;
+  background-image: url("Pattern.png");}
 }
 
 img {
@@ -10,8 +11,5 @@ img {
   height: auto;
 }
 
-<style>
-body {
-  background-image: url("Pattern.png");}
-</style>
+
   

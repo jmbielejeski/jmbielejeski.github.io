@@ -3,7 +3,7 @@ html, body {
   background-image: url(Pattern.png);
   margin-right: 150px;
   margin-left: 150px;
-  fload: left;
+  float: left;
  }
 
 img {	

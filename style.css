@@ -1,7 +1,11 @@
 html, body {
   font-family: sans-serif;
   background-image: url(Pattern.png);
-  padding: 25px 50px;
+ }
+
+body {
+ margin-right: 150px;
+ margin-left: 150px;
 }
 
 img {	

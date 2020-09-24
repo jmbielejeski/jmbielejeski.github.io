@@ -11,6 +11,7 @@ html, body {
 html, pic {	
   max-width: 50%;	
   height: auto;	
+  float: right;
   border-radius: 8px;
   }
 

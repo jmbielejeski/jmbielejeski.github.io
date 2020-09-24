@@ -3,9 +3,8 @@ html, body {
   background-image: url(Pattern.png);
 }
 
-#pic {	
-  float: right;
-  border-radius: 8px;
+img {	
+    border-radius: 8px;
   }
 
   

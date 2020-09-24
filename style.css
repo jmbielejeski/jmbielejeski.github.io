@@ -1,12 +1,10 @@
 html, body {
   font-family: sans-serif;
   background-image: url(Pattern.png);
+  /*text-align: center;*/
+  margin-right: 150px;
+  margin-left: 150px;
  }
-
-body {
- margin-right: 150px;
- margin-left: 150px;
-}
 
 img {	
     border-radius: 8px;

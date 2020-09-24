@@ -3,7 +3,7 @@ html, body {
   background-image: url(Pattern.png);
 }
 
-headshot {	
+#headshot {	
   max-width: 50%;	
   height: auto;	
   float: right;

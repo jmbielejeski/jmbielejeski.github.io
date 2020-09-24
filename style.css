@@ -8,7 +8,7 @@ html, body {
   background-image: url(Pattern.png);
 }
 
-html, pic {	
+pic {	
   max-width: 50%;	
   height: auto;	
   float: right;

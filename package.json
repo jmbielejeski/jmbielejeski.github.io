@@ -3,7 +3,7 @@
     "name": "startbootstrap-freelancer",
     "version": "6.0.6",
     "scripts": {
-        "start": "node dist/index.php"
+        "start": "node dist/js/scripts.js"
     },
     "description": "A freelancer portfolio HTML theme for Bootstrap.",
     "keywords": [

@@ -18,6 +18,12 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-freelancer/issues",
         "email": "feedback@startbootstrap.com"
     },
+
+    "scripts": {
+      "start": "node app"
+    },
+
+    
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
